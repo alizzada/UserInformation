@@ -1,0 +1,21 @@
+<div class="container">
+    <table
+    id="table"
+    data-toggle="table" class="table table-bordered">
+    <thead>
+      <tr>
+        <th>User Name</th>
+        <th>Email Address</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let data of users">
+            <td>{{data.name}} {{data.surname}}</td>
+            <td>{{data.emailAddress}}</td>
+            <td>{{data.status? 'Active':'Disabled'}}</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+
