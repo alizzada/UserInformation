@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.Business.deps.json
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.Business.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\ref\UserInformation.Business.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.Business.pdb
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.DataAccess.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.Entities.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.DataAccess.pdb
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\bin\Debug\net6.0\UserInformation.Entities.pdb
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.AssemblyInfo.cs
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.csproj.CopyComplete
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\ref\UserInformation.Business.dll
+C:\Users\user\source\repos\UserInformation\UserInformation.Business\obj\Debug\net6.0\UserInformation.Business.pdb
